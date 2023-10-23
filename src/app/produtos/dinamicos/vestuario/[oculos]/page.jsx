@@ -15,8 +15,6 @@ export default function Oculos({params}) {
                   alt="Imagem sorrindo"
                   width={500}
                   height={500} /> 
-
-                  <figcaption> Imagem sorrindo </figcaption>
               </figure>
     </>
   )
