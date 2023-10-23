@@ -18,12 +18,11 @@ export default function Home() {
           <main>
             <br/> 
                 <h3><strong> Membranas</strong></h3>
-                  <p> </p>
-
-
+                  <p> Felipe Moraes Silva | rm98455</p>
+                  <p> Gustavo Moreira Gonçalves | rm97999</p>
+                  <p> Mariana Neugebauer Dourado | rm550494 🤓</p>
+                  <p> Vinícius de Alencar Chagas | rm550167</p>
           </main>
-
-      
 
     </>
   )
